@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+sentence-transformers
+scikit-learn
+langchain
+google-generativeai
+python-dotenv
+pandas
+numpy
